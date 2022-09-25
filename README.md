@@ -1,3 +1,17 @@
+# To run...
+
+1. clone or fetch the repository
+2. goto root directory (the directory containing "package.json")
+3. install the dependencies (cmd: npm install)
+4. run the project locally (cmd: npm run dev)
+
+# check other version
+
+1. check the branch list (cmd: git branch)
+2. switch on the branch which want to run (cmd: git checkout branch_name)
+3. install the dependencies (if already exist, skip it)
+4. run project locally (cmd: npm run dev)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
