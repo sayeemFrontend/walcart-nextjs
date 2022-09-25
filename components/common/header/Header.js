@@ -3,7 +3,7 @@ import { Center } from "../../../styles/style";
 
 export default function Header() {
   return (
-    <Center height="150px">
+    <Center height="80px">
       <div className="text-center">
         <h1 className="text-4xl text-primary-50">
           Welcome <span className="text-secondary-600">Next.js</span>

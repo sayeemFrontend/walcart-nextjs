@@ -17,9 +17,8 @@ export default function Products({ fetchedData }) {
   return (
     <div>
       <h4 className="mb-10 text-primary-500  ">
-        {" "}
-        Display Articles fetched by{" "}
-        <span className="text-secondary-800">Graphql </span>
+        Display Articles fetched by
+        <span className="mx-1 text-secondary-800">Graphql </span>
       </h4>
 
       <Display>
