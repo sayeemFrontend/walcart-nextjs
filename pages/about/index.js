@@ -10,8 +10,8 @@ export default function About() {
     <div className="bg-primary-800">
       <Meta />
       <div className="home container">
-        <div className="px-2 ">
-          <div className="grid grid-flow-row lg:grid-flow-col gap-3">
+        <div className="px-2">
+          <div className="mb-16 grid grid-flow-row lg:grid-flow-col gap-3">
             <div className="text-white">
               <h1 className="text-primary-50">
                 HI,
@@ -30,7 +30,7 @@ export default function About() {
                 spectrum and working on ambitious projects with positive people.
               </p>
 
-              <div className="w-32 h-10 mx-auto lg:mx-0 lg:ml-12 lg:my-12 border border-secondary-200 hover:bg-secondary-300 hover:text-primary-800">
+              <div className="w-32 mt-6 h-10 mx-auto lg:mx-0 lg:ml-12 lg:my-12 border border-secondary-200 hover:bg-secondary-300 hover:text-primary-800">
                 <Button>
                   <Link href="/contact">
                     <a>Contact me !</a>
